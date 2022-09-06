@@ -5,4 +5,3 @@ function getMaxLengthString(arrayOfString) {
 }
 module.exports = getMaxLengthString
 // code here 
-// dsada
